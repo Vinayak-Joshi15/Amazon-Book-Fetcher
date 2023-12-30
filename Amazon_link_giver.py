@@ -7,7 +7,7 @@ buffer = ""
 name = str(input("enter the name of the book: "))
 t.append(name)
 
-author = str(input("enter the name of the book: "))
+author = str(input("enter the name of the author: "))
 t.append(author)
 
 genre = str(input("enter the primary genre of the book: "))
